@@ -1,0 +1,12 @@
+prefix=/media/dark/64FAF14AFAF1194E/6_months_Data_Science&AI_course/Machine-Learning (day-67-102)/.conda
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Readline
+Description: Gnu Readline library for command line editing
+URL: http://tiswww.cwru.edu/php/chet/readline/rltop.html
+Version: 8.2
+Requires.private: tinfo
+Libs: -L${libdir} -lreadline
+Cflags: -I${includedir}

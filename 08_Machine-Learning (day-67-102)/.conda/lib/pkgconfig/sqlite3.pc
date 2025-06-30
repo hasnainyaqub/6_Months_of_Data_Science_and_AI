@@ -1,0 +1,13 @@
+# Package Information for pkg-config
+
+prefix=/media/dark/64FAF14AFAF1194E/6_months_Data_Science&AI_course/Machine-Learning (day-67-102)/.conda
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: SQLite
+Description: SQL database engine
+Version: 3.45.3
+Libs: -L${libdir} -lsqlite3
+Libs.private: -lz -lm -ldl -lpthread 
+Cflags: -I${includedir}

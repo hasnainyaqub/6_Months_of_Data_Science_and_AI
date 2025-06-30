@@ -1,0 +1,11 @@
+prefix=/media/dark/64FAF14AFAF1194E/6_months_Data_Science&AI_course/Machine-Learning (day-67-102)/.conda
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/media/dark/64FAF14AFAF1194E/6_months_Data_Science&AI_course/Machine-Learning (day-67-102)/.conda/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

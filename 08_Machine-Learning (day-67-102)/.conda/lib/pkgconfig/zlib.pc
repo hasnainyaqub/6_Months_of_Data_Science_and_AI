@@ -1,0 +1,13 @@
+prefix=/media/dark/64FAF14AFAF1194E/6_months_Data_Science&AI_course/Machine-Learning (day-67-102)/.conda
+exec_prefix=/media/dark/64FAF14AFAF1194E/6_months_Data_Science&AI_course/Machine-Learning (day-67-102)/.conda
+libdir=/media/dark/64FAF14AFAF1194E/6_months_Data_Science&AI_course/Machine-Learning (day-67-102)/.conda/lib
+sharedlibdir=/media/dark/64FAF14AFAF1194E/6_months_Data_Science&AI_course/Machine-Learning (day-67-102)/.conda/lib
+includedir=/media/dark/64FAF14AFAF1194E/6_months_Data_Science&AI_course/Machine-Learning (day-67-102)/.conda/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
