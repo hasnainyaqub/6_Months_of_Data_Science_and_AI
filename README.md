@@ -19,7 +19,7 @@ I'm a passionate Data Science enthusiast currently enrolled in a **6-months of D
 
 ## How to Reach Me
 -  [**GitHub**](https://github.com/hasnainyaqub)
-- **LinkedIn:** [https://www.linkedin.com/in/hasnain-yaqoob-/](https://www.linkedin.com/in/hasnain-yaqoob-/)
+-  [**LinkedIn**](https://www.linkedin.com/in/hasnainyaqoob)
 - **Kaggle:** [https://www.kaggle.com/hasnainyaqooob](https://www.kaggle.com/hasnainyaqooob)
 - **Email:** Hasnainyaqubakm@gmail.com
 
