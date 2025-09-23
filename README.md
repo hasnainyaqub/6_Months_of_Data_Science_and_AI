@@ -21,7 +21,7 @@ I'm a passionate Data Science enthusiast currently enrolled in a **6-months of D
 -  [**GitHub**](https://github.com/hasnainyaqub)
 -  [**LinkedIn**](https://www.linkedin.com/in/hasnainyaqoob/)
 -  [**Kaggle**](https://www.kaggle.com/hasnainyaqooob)
-- **Email:** Hasnainyaqubakm@gmail.com
+- **Hasnainyaqubakm@gmail.com** 
 
 ## Fun Fact
 I love solving real-world problems using AI and enjoy exploring the latest advancements in machine learning!
