@@ -18,7 +18,7 @@ I'm a passionate Data Science enthusiast currently enrolled in a **6-months of D
 - Research in **AI & Time Series Analysis**
 
 ## How to Reach Me
-- **GitHub:** [hasnainyaqub](https://github.com/hasnainyaqub)
+-  [**GitHub**](https://github.com/hasnainyaqub)
 - **LinkedIn:** [hasnainyaqoob/](https://www.linkedin.com/in/hasnainyaqoob/)
 - **Kaggle:** [hasnainyaqooob](https://www.kaggle.com/hasnainyaqooob)
 - **Email:** Hasnainyaqubakm@gmail.com
